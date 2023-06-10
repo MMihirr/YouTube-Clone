@@ -8,3 +8,9 @@ if (x==10):
 # Dynamic if_else
 
 a = int(input("Enter A No : "))
+
+if a>= 18:
+    print("You are an Adult")
+else:
+    print('You are still a Kid')
+

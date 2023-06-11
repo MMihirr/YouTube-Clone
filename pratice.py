@@ -12,5 +12,5 @@ a = int(input("Enter A No : "))
 if a>= 18:
     print("You are an Adult")
 else:
-    print('You are still a Kid')
+    print('You are not an Adult')
 

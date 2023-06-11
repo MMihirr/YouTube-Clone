@@ -3,17 +3,17 @@
 x = 10 
 
 if (x==10):
-    print("good")
+    print("Great")
 
 # Dynamic if_else
-'''
+
 a = int(input("Enter A No : "))
 b = int(input("Enter B No : "))
 
 if a>b:
     print("A is Bigger")
 else:
-    print("B is Bigger")'''
+    print("B is Bigger")
 
 age = int(input("Enter your age : "))
 
